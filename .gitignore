@@ -1,0 +1,4 @@
+.env
+myenv/
+logs/
+AI_TRAVEL_AGENT.egg-info/
